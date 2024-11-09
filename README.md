@@ -1,4 +1,4 @@
-wk2 project - Hello World
+# wk2 project - Hello World
 
 ## Description
 Learning git & GitHub basic commands
